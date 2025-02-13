@@ -67,7 +67,7 @@ importers:
         version: 5.2.1(react@18.3.1)
       react-parallax-tilt:
         specifier: ^1.7.154
-        version: 1.7.238(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 1.7.282(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react-simple-typewriter:
         specifier: ^5.0.1
         version: 5.0.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -3826,11 +3826,11 @@ packages:
   react-is@16.13.1:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
 
-  react-parallax-tilt@1.7.238:
-    resolution: {integrity: sha512-BG1p812g8fdRQwZT9QujfA00O7f/tZkj0tV5ivF0BYsg7f42ryGXkj4P5zG8iFeR1cAAOcCcwuiSxvoVxHlAww==}
+  react-parallax-tilt@1.7.282:
+    resolution: {integrity: sha512-mCNRwjnocs+0CDx9ZNKtqx67oyLiHfsF0nPuxDtRlOu/1ESdxwrZxp/AKDpbKtcYQh54yOlSZDN46In+Xoqs8g==}
     peerDependencies:
-      react: ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0
-      react-dom: ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0
+      react: ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
+      react-dom: ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
   react-remove-scroll-bar@2.3.4:
     resolution: {integrity: sha512-63C4YQBUt0m6ALadE9XV56hV8BgJWDmmTPY758iIJjfQKt2nYwoUrPk0LXRXcB/yIj82T1/Ixfdpdk68LwIB0A==}
@@ -8710,7 +8710,7 @@ snapshots:
 
   react-is@16.13.1: {}
 
-  react-parallax-tilt@1.7.238(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  react-parallax-tilt@1.7.282(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
